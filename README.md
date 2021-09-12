@@ -1,6 +1,9 @@
-# Instructions
+# DISCORD STARTUP PACK
 
 To use this code, follow the instructions:
+first, open your cmd and install dotenv library and discord.js by typing the following commands
+npm install dotenv 
+npm install discord.js
 
 1) Install all dependencies:
 
